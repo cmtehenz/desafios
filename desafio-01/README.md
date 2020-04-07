@@ -7,11 +7,7 @@
 <p align="center">“Sua única limitação é você mesmo”!</blockquote>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rocketseat/bootcamp-gostack-desafios?color=%2304D361">
 
-  <a href="https://rocketseat.com.br">
-    <img alt="Made by Gustavo Costa" src="https://img.shields.io/badge/made%20by-Rocketseat-%2304D361">
-  </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 
@@ -28,21 +24,16 @@
 
 ## :rocket: Sobre o desafio
 
-Nesse desafio, você deve planejar os seus estudos.
+Nesse desafio, foi feito os planejamentos do estudo semanal.
 
-Para isso, você deve criar um cronograma que irá se adaptar ao seu tempo e ritmo.
+Criado um cronograma adaptado ao meu tempo e ritmo.
 
-Defina qual será seu horário de estudo, criando tarefas que estarão atreladas a um calendário, para se manter com foco e sempre alinhado com seus objetivos!
+Definido horário de estudo, criado tarefas que estão a um calendário.
 
 ### Modelo de cronograma
 
-Para te ajudar nesse desafio, criamos para você um modelo que você pode duplicar através da plataforma Notion.
+Realizado o cronograma conforme o modelo disponibilizado pela rocketseat.
 
-O Notion funciona tanto em plataformas mobile, tanto em plataformas desktop, e ambas podem ser baixadas em sua [página oficial](https://www.notion.so/product).
-
-Para começar a utilizar o modelo, você deve acessar o link disponibilizado abaixo, e clicar no botão "Duplicate" que fica no menu do canto superior direito da tela. 
-
-📄 **[Link para o modelo](https://www.notion.so/Cronograma-de-estudos-e390bc8d2f5743668ec03348a3306070)**
 
 ### Definindo o cronograma semanal
 
@@ -50,7 +41,7 @@ Para começar a utilizar o modelo, você deve acessar o link disponibilizado aba
   <img width="80%" src="./assets/cronogramadiario.png">
 </p>
 
-Nessa sessão você deve informar os horários fixos que você irá se dedicar durante a sua jornada como programador, afinal, a rotina de estudos será o primeiro passo para você conseguir atingir os seus objetivos o mais rápido possível!
+Nessa sessão foram informados os horários fixos que irei dedicar durante essa jornada como programador, afinal, a rotina de estudos será o primeiro passo para você conseguir atingir os seus objetivos o mais rápido possível!
 
 ### Definindo o cronograma diário
 
@@ -58,22 +49,17 @@ Nessa sessão você deve informar os horários fixos que você irá se dedicar d
   <img width="80%" src="./assets/cronogramasemanal.png">
 </p>
 
-Agora você deve planejar suas tarefas diárias para que você consiga estar preparado para todo o conteúdo que irá consumir durante a semana.
+Planejado as tarefas diárias que irei consumir durante a semana.
 
-Aqui você pode seguir o modelo disponibilizado abaixo para criar seu próprio calendário de estudos, para que você consiga sempre se manter organizado e focado nos seus objetivos.
+Adicionado um post no meu 
+<a href="https://www.linkedin.com/posts/gustavo-costa-3759a81a6_nodejs-reacjs-reactnaive-activity-6653270344343797760-vipa">
+linkin</a>
 
-Nesse modelo já deixamos preparados tudo o que você pode fazer para essa primeira semana de conteúdos do Bootcamp, você apenas precisará adaptar ao seu ritmo.
-
-Dica: Adicione conteúdo extra como leituras e podcasts, lembre-se de ter pequenas pausas para descansar e assimilar o material estudado. Adicione também tempo reservado para criação de conteúdos, como posts em um blog pessoal ou linkedin.
 
 ## :calendar: Entrega
 
 Esse desafio deve ser entregue a partir da plataforma Skylab. Após concluir o desafio, fazer um post no Linkedin sobre ele é uma boa forma de demonstrar seus esforços para evoluir na sua carreira para oportunidades futuras.
 
-## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
 ---
 
-Feito com 💜 by Gustavo Costa :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Feito com 💜 by Gustavo Costa
